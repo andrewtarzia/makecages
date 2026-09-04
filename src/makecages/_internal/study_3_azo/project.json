@@ -1,0 +1,15 @@
+{
+    "wd": "/home/tarziaa/workingspace/as_cages/study_3_azo",
+    "under_wd": {
+        "ligand_dir": ["ligands"],
+        "calculation_dir": ["calculations"],
+        "cage_dir": ["cages"],
+        "oligomers_dir": ["oligomers"],
+        "data_dir": ["data"],
+        "figure_dir": ["figures"]
+    },
+    "xtb_path": "/home/tarziaa/miniforge3/envs/csm/bin/xtb",
+    "gulp_path": "/home/tarziaa/software/gulp-6.2/Src/gulp",
+    "orca_path": "/home/tarziaa/orca_6_1_1/orca",
+    "gxtb_path": "/home/tarziaa/workingspace/as_cages/study_3_azo/software/xtb-6.7.1-gxtb-210426-linux-x86_64/xtb-6.7.1/bin/xtb"
+}
