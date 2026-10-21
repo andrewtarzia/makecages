@@ -1,27 +1,24 @@
 :maintainers:
   `andrewtarzia <https://github.com/andrewtarzia/>`_
-:documentation: https://makecages.readthedocs.io/en/latest/
-
-
-Under development.
-
 
 Overview
 ========
 
-A code base for using the `stk <https://stk.readthedocs.io/en/stable/>`_
+A public code base for using the `stk <https://stk.readthedocs.io/en/stable/>`_
 ecosystem to construct and optimise cage molecules.
 
+Each directory in ``src/makecages`` corresponds to a publication.
 
-Installation
-============
 
-To run the scripts or develop this code, you can clone the repo and use
-`just <https://github.com/casey/just>`_ to setup the dev environment:
+Installation per project
+========================
+
+Each project will have an ``environment.yml`` representing the ``conda`` or ``mamba`` environment 
+used to run the script.
 
 .. code-block:: bash
 
-  just dev
+  mamba env create -f environment.yml
 
 
 Studies
