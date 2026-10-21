@@ -136,5 +136,3 @@ dependencies:
     - vabene==0.0.5
     - wcwidth==0.2.14
     - widgetsnbextension==4.0.15
-
-prefix: "/home/tarziaa/miniforge3/envs/csm"
