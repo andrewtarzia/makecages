@@ -20,6 +20,12 @@ used to run the script.
 
   mamba env create -f environment.yml
 
+Then, you must install the library to access the modules of ``makecages``. So within the home directory of this repostory, run:
+
+.. code-block:: bash
+
+  pip install -e .
+
 
 Studies
 =======
